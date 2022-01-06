@@ -1,0 +1,24 @@
+Model 1
+Avg error of the validation 0.03292300440371036
+Avg accuracy of the validation 0.9897500038146972
+Test loss 0.041568491607904434
+Test accuracy 0.9898999929428101
+---------------------------------------
+Model 2
+Avg error of the validation 0.039365456253290174
+Avg accuracy of the validation 0.9877166748046875
+Test loss 0.057957202196121216
+Test accuracy 0.986299991607666
+---------------------------------------
+Model 3
+Avg error of the validation 0.054308350943028924
+Avg accuracy of the validation 0.9833166658878326
+Test loss 0.05620187520980835
+Test accuracy 0.9871000051498413
+---------------------------------------
+Model 4
+Avg error of the validation 0.038054510857909916
+Avg accuracy of the validation 0.9884666740894318
+Test loss 0.03718392178416252
+Test accuracy 0.9887999892234802
+---------------------------------------
